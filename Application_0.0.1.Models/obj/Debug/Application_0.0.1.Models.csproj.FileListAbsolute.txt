@@ -1,0 +1,12 @@
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\bin\Debug\Application_0.0.1.Models.dll.config
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\bin\Debug\Application_0.0.1.Models.dll
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\bin\Debug\Application_0.0.1.Models.pdb
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\bin\Debug\EntityFramework.dll
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\bin\Debug\EntityFramework.xml
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\obj\Debug\Application_0.0.1.Models.csproj.AssemblyReference.cache
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\obj\Debug\Application_0.0.1.Models.csproj.CoreCompileInputs.cache
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\obj\Debug\Application_0.0.1.Models.csproj.CopyComplete
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\obj\Debug\Application_0.0.1.Models.dll
+C:\Users\sit340\Documents\c#\Application_0.0.1\Application_0.0.1.Models\obj\Debug\Application_0.0.1.Models.pdb
