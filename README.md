@@ -1,5 +1,5 @@
 # Mvc_Application
-First You have to register Your self
+A registration page serves as a gateway for users to create an account and access the full features and benefits of a website or application. It is a crucial component of user onboarding, allowing individuals to establish their identity within the platform. The registration page typically includes fields for users to input their basic information, such as name, email address, and password. It may also incorporate additional elements like checkboxes for terms of service and privacy policy acceptance. A well-designed registration page ensures a seamless and user-friendly experience, guiding users through the process and setting the foundation for their engagement with the platform.
 ![Screenshot 2023-07-17 175919](https://github.com/Balaji210/Mvc_Application/assets/94680506/84b7309b-f567-48ef-8e97-343b434c20d5)
 
 Then You have to login
